@@ -2,20 +2,20 @@
 description
 
 # Technology Stack
-* **Programming language:** kotlin
+* **Programming language:** [kotlin](https://kotlinlang.org/)
 * **Architecture Pattern:** Single activity
 * **Architecture:** clean architecture (Presentation, Domain, Data, DataStores)
 * **UI pattern:** MVVM (Model-View-ViewModel)
-* **Asynchronous Programming:** Kotlin flow, Coroutines
+* **Asynchronous Programming:** [Kotlin flow](https://kotlinlang.org/docs/flow.html), [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
 
-* **Local database:** Room
-* **Local srorage:** EncryptedSharedPreferences
-* **Navigation:** Navigation component
-* **Network:** Retrofit2, OkHttp, Apache FTP
-* **Image:** Glide
-* **Backgroud task:** WorkManager
-* **Dependency injection:** Dagger 2
-* **Thema:** Material Design 3
+* **Local database:** [Room](https://developer.android.com/jetpack/androidx/releases/room)
+* **Local srorage:** [EncryptedSharedPreferences](https://developer.android.com/reference/androidx/security/crypto/EncryptedSharedPreferences)
+* **Navigation:** [Navigation component](https://developer.android.com/guide/navigation)
+* **Network:** [Retrofit2](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [Apache FTP](https://commons.apache.org/proper/commons-net/apidocs/org/apache/commons/net/ftp/FTPClient.html)
+* **Image:** [Glide](https://github.com/bumptech/glide?tab=readme-ov-file)
+* **Backgroud task:** [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+* **Dependency injection:** [Dagger 2](https://dagger.dev/)
+* **Thema:** [Material Design 3](https://m3.material.io/)
 * **View Layer:** XML (for layout design) with Material Design Components
 * **Localization:** Android resource system for localization
 
