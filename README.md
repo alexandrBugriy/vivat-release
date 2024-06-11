@@ -1,27 +1,58 @@
-Мова: kotlin
+# Vivat
+description
 
-Додаток виконано за принципом Single activity
+# Technology Stack
+* **Programming language:** kotlin
+* **Architecture Pattern:** Single activity
+* **Architecture:** clean architecture (Presentation, Domain, Data, DataStores)
+* **UI pattern:** MVVM (Model-View-ViewModel)
+* **Asynchronous Programming:** Kotlin flow, Coroutines
 
-Архітектура додатку: clean architecture
+* **Local database:** Room
+* **Local srorage:** EncryptedSharedPreferences
+* **Navigation:** Navigation component
+* **Network:** Retrofit2, OkHttp, Apache FTP
+* **Image:** Glide
+* **Backgroud task:** WorkManager
+* **Dependency injection:** Dagger 2
+* **Thema:** Material Design 3
+* **View Layer:** XML (for layout design) with Material Design Components
+* **Localization:** Android resource system for localization
 
-Слої додатку: Presentation, Domain, Data, DataStores
+# Screenshots
+## Auth
 
-Шаблон взаємодії фрагментів та даних: Model-View-ViewModel
+## Config
 
-Збереження налаштувань: EncryptedSharedPreferences
+## Main
 
-Бібліотека для роботи в асинхронному режимі: Coroutines
+## Sync
 
-Бібліотека для баз даних: Room
+## Remainder
 
-Бібліотека для навігація: Navigation component
+## Nomwnclature
 
-Бібліотеки для роботи з інтернетом: Retrofit2, OkHttp logging interceptor, Apache FTP
+## Order
 
-Бібліотека для роботи з картинками: Glide
+### list
 
-Фонова робота по синхронізації залишків, завантаження каринок: WorkManager
+### new order
 
-Фреймворк для Dependency injection: Dagger 2
+### edit order
+### fill order
 
-Тема: Material Design 3
+# Theme
+## Light theme
+
+## Dark theme
+
+# Features
+## Check latest version
+* during running app it automatically check if new version available and if it is exist then app send push notification for user. Also used can check latest version from top app bar menu in main pane.
+
+# Database Schema
+
+
+
+
+
