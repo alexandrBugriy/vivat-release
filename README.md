@@ -1,5 +1,5 @@
 # Vivat
-description
+This application allows users to create product orders and synchronize them with the database on the fly. The application provides a convenient interface for entering orders, and transferring data to a central database for further processing.
 
 # Technology Stack
 * **Programming language:** [kotlin](https://kotlinlang.org/)
