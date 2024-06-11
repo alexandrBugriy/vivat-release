@@ -48,7 +48,15 @@ description
 
 # Features
 ## Check latest version
-* during running app it automatically check if new version available and if it is exist then app send push notification for user. Also used can check latest version from top app bar menu in main pane.
+* while the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
+
+## Change language
+* the app is multy language: English and Ukrainian. By default uses language setting from device.
+
+## Toggle darck and light thema
+
+## Horizontal and vertical orientation
+* when user change device orientation app dynamically recreated with new parameters.
 
 # Database Schema
 
