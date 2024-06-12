@@ -21,41 +21,53 @@ This application allows users to create product orders and synchronize them with
 
 # Screenshots
 ## Auth
-![](images/auth.png){ .image25percent }
+<img src="images/auth.png" width="360" height="740" />
+
 ## Config
-![](images/config.png)
+<img src="images/config.png" width="360" height="740" />
+
 ## Main
-![](images/main.png)
+<img src="images/main.png" width="360" height="740" />
+
 ## Sync
-![](images/sync.png)
+<img src="images/sync.png" width="360" height="740" />
+
 ## Remainder
-![](images/remainder.png)
+<img src="images/remainder.png" width="360" height="740" />
+
 ## Nomenclature
-![](images/nomenclature.png)
+<img src="images/nomenclature.png" width="360" height="740" />
+
 ## Order
 ### list
-![](images/order-list.png)
+<img src="images/order-list.png" width="360" height="740" />
+
 ### new order
-![](images/order-new.png)
+<img src="images/order-new.png" width="360" height="740" />
+
 ### edit order
-![](images/order-edit.png)
+<img src="images/order-edit.png" width="360" height="740" />
+
 ### landscape orientation
-![](images/auth-landscape.png)
+<img src="images/auth-landscape.png" width="740" height="360" />
 
 
 # Theme
 ## Light theme
-![](images/auth.png | width=100)
+<img src="images/auth.png" width="360" height="740" />
+
 ## Dark theme
-![](images/auth-night.png)
+<img src="images/auth-night.png" width="360" height="740" />
+
 # Features
 ## Check latest version
 * while the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
 
-## Change language
+## Multi  language
 * the app is multi language: English and Ukrainian. By default uses language setting from device.
 
-## Toggle dark and light them
+## Suport dark and light them
+* the app get theme value from device setting.
 
 ## Horizontal and vertical orientation
 * when user change device orientation app dynamically recreated with new parameters.
