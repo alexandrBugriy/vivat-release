@@ -61,16 +61,19 @@ This application allows users to create product orders and synchronize them with
 
 # Features
 ## Check latest version
-* while the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
+* While the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
 
 ## Multi  language
-* the app is multi language: English and Ukrainian. By default uses language setting from device.
+* The app is multi language: English and Ukrainian. By default uses language setting from device.
 
 ## Suport dark and light them
-* the app get theme value from device setting.
+* The app get theme value from device setting.
 
 ## Horizontal and vertical orientation
-* when user change device orientation app dynamically recreated with new parameters.
+* When user change device orientation app dynamically recreated with new parameters.
+
+## Offline Access and Orders saving
+* Access data offline and save new orders locally on the device.
 
 # Database Schema
 
