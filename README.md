@@ -21,31 +21,33 @@ This application allows users to create product orders and synchronize them with
 
 # Screenshots
 ## Auth
-
+![](images/auth.png){ .image25percent }
 ## Config
-
+![](images/config.png)
 ## Main
-
+![](images/main.png)
 ## Sync
-
+![](images/sync.png)
 ## Remainder
-
+![](images/remainder.png)
 ## Nomenclature
-
+![](images/nomenclature.png)
 ## Order
-
 ### list
-
+![](images/order-list.png)
 ### new order
-
+![](images/order-new.png)
 ### edit order
-### fill order
+![](images/order-edit.png)
+### landscape orientation
+![](images/auth-landscape.png)
+
 
 # Theme
 ## Light theme
-
+![](images/auth.png | width=100)
 ## Dark theme
-
+![](images/auth-night.png)
 # Features
 ## Check latest version
 * while the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
