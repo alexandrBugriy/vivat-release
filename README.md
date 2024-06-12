@@ -9,13 +9,13 @@ This application allows users to create product orders and synchronize them with
 * **Asynchronous Programming:** [Kotlin flow](https://kotlinlang.org/docs/flow.html), [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
 
 * **Local database:** [Room](https://developer.android.com/jetpack/androidx/releases/room)
-* **Local srorage:** [EncryptedSharedPreferences](https://developer.android.com/reference/androidx/security/crypto/EncryptedSharedPreferences)
+* **Local storage:** [EncryptedSharedPreferences](https://developer.android.com/reference/androidx/security/crypto/EncryptedSharedPreferences)
 * **Navigation:** [Navigation component](https://developer.android.com/guide/navigation)
 * **Network:** [Retrofit2](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [Apache FTP](https://commons.apache.org/proper/commons-net/apidocs/org/apache/commons/net/ftp/FTPClient.html)
 * **Image:** [Glide](https://github.com/bumptech/glide?tab=readme-ov-file)
-* **Backgroud task:** [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+* **Background task:** [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 * **Dependency injection:** [Dagger 2](https://dagger.dev/)
-* **Thema:** [Material Design 3](https://m3.material.io/)
+* **Them:** [Material Design 3](https://m3.material.io/)
 * **View Layer:** [XML (for layout design)](https://developer.android.com/develop/ui/views/layout/declaring-layout) with Material Design Components
 * **Localization:** [Android resource system for localization](https://developer.android.com/guide/topics/resources/localization)
 
@@ -30,7 +30,7 @@ This application allows users to create product orders and synchronize them with
 
 ## Remainder
 
-## Nomwnclature
+## Nomenclature
 
 ## Order
 
@@ -51,9 +51,9 @@ This application allows users to create product orders and synchronize them with
 * while the app is running, it subscribes to the availability of a new version, and if there is, the app sends a push notification to the user. You can also check the latest version in the menu of the top bar of programs in the main bar.
 
 ## Change language
-* the app is multy language: English and Ukrainian. By default uses language setting from device.
+* the app is multi language: English and Ukrainian. By default uses language setting from device.
 
-## Toggle darck and light thema
+## Toggle dark and light them
 
 ## Horizontal and vertical orientation
 * when user change device orientation app dynamically recreated with new parameters.
